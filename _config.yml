@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme
 github:
   owner_name: "努力变成白熊的熊猫pr."
+theme: winter

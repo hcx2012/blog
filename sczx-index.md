@@ -1,0 +1,3 @@
+---
+permalink: /sczx-index.html
+---

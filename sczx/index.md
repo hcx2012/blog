@@ -8,8 +8,13 @@
       </tr>
     </thead>
     <tbody>
-      <tr class="active">
+      <tr>
         <th>1</th>
+        <td>春熙路、宽窄巷子</td>
+        <td><a class="btn btn-primary" href="cxl-kzxz.html">GO!</a></td>
+      </tr>
+      <tr class="active">
+        <th>??</th>
         <td>[3天2晚]九寨黄龙之行</td>
         <td><a class="btn btn-primary" href="jzhl/index.html">GO!</a></td>
       </tr>

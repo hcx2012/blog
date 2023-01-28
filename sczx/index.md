@@ -3,31 +3,25 @@
     <thead>
       <tr>
         <th></th>
-        <th>Name</th>
-        <th>Job</th>
-        <th>Favorite Color</th>
+        <th>名称</th>
+        <th></th>
       </tr>
     </thead>
     <tbody>
       <tr class="active">
         <th>1</th>
-        <td>Cy Ganderton</td>
-        <td>Quality Control Specialist</td>
-        <td>Blue</td>
+        <td>[3天2晚]九寨黄龙之行</td>
+        <td><a class="btn btn-primary" href="jzhl/index.html">GO!</a></td>
       </tr>
-      <!-- row 2 -->
       <tr class="active">
-        <th>2</th>
-        <td>Hart Hagerty</td>
-        <td>Desktop Support Technician</td>
-        <td>Purple</td>
+        <th>??</th>
+        <td>[一日游]乐山之行</td>
+        <td><a class="btn btn-primary" href="ls/index.html">GO!</a></td>
       </tr>
-      <!-- row 3 -->
       <tr>
-        <th>3</th>
-        <td>Brice Swyre</td>
-        <td>Tax Accountant</td>
-        <td>Red</td>
+        <th>??</th>
+        <td>四川省博物院</td>
+        <td><a class="btn btn-primary" href="scsbwy.html">GO!</a></td>
       </tr>
     </tbody>
   </table>

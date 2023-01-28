@@ -9,14 +9,14 @@
       </tr>
     </thead>
     <tbody>
-      <tr class="bg-neutral-content">
+      <tr class="border-neutral-content">
         <th>1</th>
         <td>Cy Ganderton</td>
         <td>Quality Control Specialist</td>
         <td>Blue</td>
       </tr>
       <!-- row 2 -->
-      <tr class="bg-neutral-content">
+      <tr class="border-neutral-content">
         <th>2</th>
         <td>Hart Hagerty</td>
         <td>Desktop Support Technician</td>

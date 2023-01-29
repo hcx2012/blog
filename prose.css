@@ -3,7 +3,7 @@
   max-width: 65ch;
 }
 
-.prose :where([class~="lead"]):not(:where([class~="not-prose"] *)) {
+.prose [class~="lead"]:not([class~="not-prose"]) {
   color: var(--tw-prose-lead);
   font-size: 1.25em;
   line-height: 1.6;
@@ -11,27 +11,27 @@
   margin-bottom: 1.2em;
 }
 
-.prose :where(a):not(:where([class~="not-prose"] *)) {
+.prose a:not([class~="not-prose"]) {
   color: var(--tw-prose-links);
   text-decoration: underline;
   font-weight: 500;
 }
 
-.prose :where(strong):not(:where([class~="not-prose"] *)) {
+.prose strong:not([class~="not-prose"]) {
   color: var(--tw-prose-bold);
   font-weight: 600;
 }
 
-.prose :where(ol):not(:where([class~="not-prose"] *)) {
+.prose ol:not([class~="not-prose"]) {
   list-style-type: decimal;
   padding-left: 1.625em;
 }
 
-.prose :where(ol[type="A"]):not(:where([class~="not-prose"] *)) {
+.prose ol[type="A"]:not([class~="not-prose"]) {
   list-style-type: upper-alpha;
 }
 
-.prose :where(ol[type="a"]):not(:where([class~="not-prose"] *)) {
+.prose ol[type="a"]:not([class~="not-prose"]) {
   list-style-type: lower-alpha;
 }
 
@@ -104,7 +104,7 @@
   content: close-quote;
 }
 
-.prose :where(h1):not(:where([class~="not-prose"] *)) {
+.prose h1:not([class~="not-prose"]) {
   color: var(--tw-prose-headings);
   font-weight: 800;
   font-size: 2.25em;
@@ -117,7 +117,7 @@
   font-weight: 900;
 }
 
-.prose :where(h2):not(:where([class~="not-prose"] *)) {
+.prose h2:not([class~="not-prose"]) {
   color: var(--tw-prose-headings);
   font-weight: 700;
   font-size: 1.5em;
@@ -130,7 +130,7 @@
   font-weight: 800;
 }
 
-.prose :where(h3):not(:where([class~="not-prose"] *)) {
+.prose :h3:not([class~="not-prose"]) {
   color: var(--tw-prose-headings);
   font-weight: 600;
   font-size: 1.25em;

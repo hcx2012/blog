@@ -3,5 +3,5 @@
 ### 1.宽巷子
 <p>
   <img src="https://pic.imgdb.cn/item/63d5bb4eface21e9ef88c7d0.jpg">
-  <small class="justify-center inline-block">宽巷子3号</small>
+  <small class="justify-center flex">宽巷子3号</small>
 </p>

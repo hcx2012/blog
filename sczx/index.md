@@ -1,3 +1,9 @@
+<div class="text-sm breadcrumbs">
+  <ul>
+    <li><a href="/">Home</a></li> 
+    <li>四川之行</li>
+  </ul>
+</div>
 <div class="overflow-x-auto">
   <table class="table w-full">
     <thead>

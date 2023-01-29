@@ -1,6 +1,6 @@
-<div class="text-sm breadcrumbs not-prose">
+<div class="text-sm breadcrumbs">
   <ul>
-    <li><a href="/">Home</a></li> 
+    <li><a href="/" class="not-prose">Home</a></li> 
     <li>四川之行</li>
   </ul>
 </div>

@@ -1,3 +1,10 @@
+<div class="text-sm breadcrumbs">
+  <ul>
+    <li><a href="/" class="not-prose">Home</a></li> 
+    <li><a href="/sczx-index.html" class="not-prose">四川之行</a></li>
+    <li>春熙路、宽窄巷子</li>
+  </ul>
+</div>
 # Day1 春熙路、宽窄巷子
 ## 2.宽窄巷子
 ### 1.宽巷子

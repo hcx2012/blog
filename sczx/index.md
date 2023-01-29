@@ -11,22 +11,22 @@
       <tr>
         <th>1</th>
         <td>春熙路、宽窄巷子</td>
-        <td><a class="btn btn-primary" href="cxl-kzxz.html">GO!</a></td>
+        <td><a class="btn btn-primary not-prose" href="cxl-kzxz.html">GO!</a></td>
       </tr>
       <tr class="active">
         <th>??</th>
         <td>[3天2晚]九寨黄龙之行</td>
-        <td><a class="btn btn-primary" href="jzhl/index.html">GO!</a></td>
+        <td><a class="btn btn-primary not-prose" href="jzhl/index.html">GO!</a></td>
       </tr>
       <tr class="active">
         <th>??</th>
         <td>[一日游]乐山之行</td>
-        <td><a class="btn btn-primary" href="ls/index.html">GO!</a></td>
+        <td><a class="btn btn-primary not-prose" href="ls/index.html">GO!</a></td>
       </tr>
       <tr>
         <th>??</th>
         <td>四川省博物院</td>
-        <td><a class="btn btn-primary" href="scsbwy.html">GO!</a></td>
+        <td><a class="btn btn-primary not-prose" href="scsbwy.html">GO!</a></td>
       </tr>
     </tbody>
   </table>

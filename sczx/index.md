@@ -1,4 +1,4 @@
-<div class="text-sm breadcrumbs">
+<div class="text-sm breadcrumbs not-prose">
   <ul>
     <li><a href="/">Home</a></li> 
     <li>四川之行</li>

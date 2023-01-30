@@ -16,24 +16,24 @@
 我们在终点站附近的商场的地下一层的`71号豆汤饭`吃午餐。(ps:飞机上只有一个小面包和一袋豆干)
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d6fdf3face21e9efee81f2.jpg"  loading="lazy">
+  <img src="https://pic.imgdb.cn/item/63d6fdf3face21e9efee81f2.jpg"  loading="eager">
   <small class="justify-center flex">71号豆汤饭的墙壁</small>
 </figure>
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d6fdf4face21e9efee8206.jpg"  loading="lazy">
+  <img src="https://pic.imgdb.cn/item/63d6fdf4face21e9efee8206.jpg"  loading="eager">
   <small class="justify-center flex">71号豆汤饭的墙壁</small>
 </figure>
 
 在`71号豆汤饭`吃的总体还不错，下面发几张菜品的图片:
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d7013dface21e9eff27369.jpg" loading="lazy">
+  <img src="https://pic.imgdb.cn/item/63d7013dface21e9eff27369.jpg" loading="eager">
   <small class="justify-center flex">鱼香马蹄肉圆</small>
 </figure>
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d7013eface21e9eff273d1.jpg" loading="lazy">
+  <img src="https://pic.imgdb.cn/item/63d7013eface21e9eff273d1.jpg" loading="eager">
   <small class="justify-center flex">心里美水果萝卜</small>
 </figure>
 

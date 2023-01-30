@@ -16,8 +16,13 @@
     <tbody>
       <tr>
         <th>1</th>
-        <td>春熙路、宽窄巷子</td>
-        <td><a class="btn btn-primary not-prose" href="cxl-kzxz.html">GO!</a></td>
+        <td>春熙路</td>
+        <td><a class="btn btn-primary not-prose" href="cxl.html">GO!</a></td>
+      </tr>
+      <tr>
+        <th>2</th>
+        <td>宽窄巷子</td>
+        <td><a class="btn btn-primary not-prose" href="kzxz.html">GO!</a></td>
       </tr>
       <tr class="active">
         <th>??</th>

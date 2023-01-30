@@ -17,3 +17,21 @@ permalink: /index.html
     </div>
   </div>
 </div>
+<div class="overflow-x-auto">
+  <table class="table w-full">
+    <thead>
+      <tr>
+        <th></th>
+        <th>名称</th>
+        <th></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th><i class="ri-upload-line"></i>1</th>
+        <td>声明</td>
+        <td><a class="btn btn-primary not-prose" href="shengming.html">GO!</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>

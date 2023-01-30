@@ -71,6 +71,12 @@
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
     <script>
       const observer = lozad(); // lazy loads elements with default selector as '.lozad'
+      var n=document.getElementsByTagName("img");
+      for(var i=0;i<n.length;i++){
+        var x=n[i];
+        x.setAttribute("data-src",x.getAttribute("src");
+        x.setAttribute("class",x.getAttribute("class")+" lozad");
+      }
       observer.observe();
     </script>
   </body>

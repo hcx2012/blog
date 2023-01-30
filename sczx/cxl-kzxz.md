@@ -69,6 +69,14 @@
   <small class="justify-center flex">红糖冰粉</small>
 </figure>
 
+在凉粉店附近有一个排了很长队的一家店，叫`鬼包子`。
+
+<figure>
+  <img src="https://pic.imgdb.cn/item/63d732daface21e9ef3f5a51.jpg" loading="lazy">
+  <small class="justify-center flex">`鬼包子`招牌</small>
+</figure>
+
+`鬼包子`有两种类型的包子，一样是传统的猪肉馅，另一样是黑芝麻馅，我们一样尝了一笼(ps:此处忘记拍照片，请自行脑补)。
 
 ## 2.宽窄巷子
 

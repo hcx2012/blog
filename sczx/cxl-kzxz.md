@@ -16,39 +16,39 @@
 我们在终点站附近的商场的地下一层的`71号豆汤饭`吃午餐。(ps:飞机上只有一个小面包和一袋豆干)
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d6fdf3face21e9efee81f2.jpg">
+  <img src="https://pic.imgdb.cn/item/63d6fdf3face21e9efee81f2.jpg"  loading="lazy">
   <small class="justify-center flex">71号豆汤饭的墙壁</small>
 </figure>
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d6fdf4face21e9efee8206.jpg">
+  <img src="https://pic.imgdb.cn/item/63d6fdf4face21e9efee8206.jpg"  loading="lazy">
   <small class="justify-center flex">71号豆汤饭的墙壁</small>
 </figure>
 
 在`71号豆汤饭`吃的总体还不错，下面发几张菜品的图片:
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d7013dface21e9eff27369.jpg">
+  <img src="https://pic.imgdb.cn/item/63d7013dface21e9eff27369.jpg" loading="lazy">
   <small class="justify-center flex">鱼香马蹄肉圆</small>
 </figure>
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d7013eface21e9eff273d1.jpg">
+  <img src="https://pic.imgdb.cn/item/63d7013eface21e9eff273d1.jpg" loading="lazy">
   <small class="justify-center flex">心里美水果萝卜</small>
 </figure>
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d7013eface21e9eff2742d.jpg">
+  <img src="https://pic.imgdb.cn/item/63d7013eface21e9eff2742d.jpg" loading="lazy">
   <small class="justify-center flex">慢炖鸡汤饭</small>
 </figure>
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d7013eface21e9eff2745b.jpg">
+  <img src="https://pic.imgdb.cn/item/63d7013eface21e9eff2745b.jpg" loading="lazy">
   <small class="justify-center flex">热卤拌全家福</small>
 </figure>
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d7013eface21e9eff274a3.jpg">
+  <img src="https://pic.imgdb.cn/item/63d7013eface21e9eff274a3.jpg" loading="lazy">
   <small class="justify-center flex">粉蒸肉</small>
 </figure>
 
@@ -60,12 +60,12 @@
 我们在一家凉粉店里吃了两碗冰粉，一种是`传统冰粉`，另一种是`红糖冰粉`。
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d7151bface21e9ef0c1eef.jpg">
+  <img src="https://pic.imgdb.cn/item/63d7151bface21e9ef0c1eef.jpg" loading="lazy">
   <small class="justify-center flex">传统冰粉</small>
 </figure>
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d7151bface21e9ef0c1edf.jpg">
+  <img src="https://pic.imgdb.cn/item/63d7151bface21e9ef0c1edf.jpg" loading="lazy">
   <small class="justify-center flex">红糖冰粉</small>
 </figure>
 
@@ -75,6 +75,6 @@
 ### 1.宽巷子
 
 <figure>
-  <img src="https://pic.imgdb.cn/item/63d5bb4eface21e9ef88c7d0.jpg">
+  <img src="https://pic.imgdb.cn/item/63d5bb4eface21e9ef88c7d0.jpg" loading="lazy">
   <small class="justify-center flex">宽巷子3号</small>
 </figure>

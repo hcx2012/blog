@@ -54,6 +54,22 @@
 
 ## 1.春熙路
 
+在去酒店的路上，我们经过了`春熙路步行街`，吃了一些小吃(ps:也不知道是不是四川的小吃)。
+这里的人很多，但大部分都聚集在甜品店和饮品店里。
+
+我们在一家凉粉店里吃了两碗冰粉，一种是`传统冰粉`，另一种是`红糖冰粉`。
+
+<figure>
+  <img src="https://pic.imgdb.cn/item/63d7151bface21e9ef0c1eef.jpg">
+  <small class="justify-center flex">传统冰粉</small>
+</figure>
+
+<figure>
+  <img src="https://pic.imgdb.cn/item/63d7151bface21e9ef0c1edf.jpg">
+  <small class="justify-center flex">红糖冰粉</small>
+</figure>
+
+
 ## 2.宽窄巷子
 
 ### 1.宽巷子

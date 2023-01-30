@@ -1,6 +1,11 @@
 ---
 permalink: /index.html
 ---
+<div class="text-sm breadcrumbs">
+  <ul>
+    <li>Home</li> 
+  </ul>
+</div>
 <div class="card bg-base-100 shadow-xl">
   <figure><img src="https://pic.imgdb.cn/item/63d5b347face21e9ef7dae3b.jpg" /></figure>
   <div class="card-body">

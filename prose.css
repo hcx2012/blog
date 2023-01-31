@@ -174,11 +174,11 @@
 }
 
 .prose code:not([class~="not-prose"])::before {
-  content: "`";
+  content: "“";
 }
 
 .prose code:not([class~="not-prose"])::after {
-  content: "`";
+  content: "”";
 }
 
 .prose a code:not([class~="not-prose"]) {
@@ -254,7 +254,7 @@
   border-bottom-width: 0;
 }
 
-.prose tbody td:not[class~="not-prose"]) {
+.prose tbody td:not[class~="not-prose"] {
   vertical-align: baseline;
   padding-top: 0.5714286em;
   padding-right: 0.5714286em;

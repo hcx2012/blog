@@ -13,7 +13,7 @@ permalink: /index.html
     <!-- <i class="ri-upload-line"></i> <i class="ri-download-line"></i> -->
     <p>2023癸卯兔年2023.1.19~2023.1.27</p>
     <div class="card-actions justify-end">
-      <a class="btn btn-primary not-prose" href="sczx-index.html">进入专栏</a>
+      <a class="btn btn-primary not-prose" href="sczx/">进入专栏</a>
     </div>
   </div>
 </div>

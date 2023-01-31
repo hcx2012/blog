@@ -39,3 +39,8 @@
 坐电瓶车上山后，我们就到了熊猫生活的地方。
 
 我本以为熊猫这么早起不来(ps:成都8点半才完全亮天)，没想到第一眼就看到了一对打架的熊猫。
+
+<figure>
+  <img src="https://pic.imgdb.cn/item/63d87e5eface21e9ef9604ea.jpg"  loading="eager">
+  <small class="justify-center flex">在打架的熊猫</small>
+</figure>

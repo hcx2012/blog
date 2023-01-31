@@ -16,7 +16,7 @@
     </thead>
     <tbody>
       <tr>
-        <th>Day.1-1</th>
+        <th>Day.2-1</th>
         <td>都江堰市熊猫基地</td>
         <td><a class="btn btn-primary not-prose" href="xmjd.html">GO!</a></td>
       </tr>

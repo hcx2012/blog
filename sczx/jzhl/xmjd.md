@@ -54,3 +54,9 @@
   <img src="https://pic.imgdb.cn/item/63d9b196e90d1c0098a5567c.jpg"  loading="eager">
   <small class="justify-center flex">爬树的熊猫(远观)</small>
 </figure>
+
+<figure>
+  <img src="https://pic.imgdb.cn/item/63d9b31ce90d1c0098a75150.jpg"  loading="eager">
+  <small class="justify-center flex">爬树的熊猫(放大)</small>
+</figure>
+

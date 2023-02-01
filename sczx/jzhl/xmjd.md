@@ -17,7 +17,7 @@
 
 我们在7点跟团上大巴车，导游是一个羌族人。
 
-我们在8点半就到达`都江堰市熊猫基地`(下称`熊猫基地`)了，可熊猫基地9点才开门，从停车场到大门也就10分钟，所以大门旁的照片拍了几张：
+我们在8点半就到达`都江堰市熊猫基地`(下称`熊猫基地`)了，可熊猫基地9点才开门，从停车场到大门也就10分钟，所以在大门旁拍了几张照片：
 
 <figure>
   <img src="https://pic.imgdb.cn/item/63d87514face21e9ef7f147c.jpg"  loading="eager">
@@ -43,4 +43,14 @@
 <figure>
   <img src="https://pic.imgdb.cn/item/63d87e5eface21e9ef9604ea.jpg"  loading="eager">
   <small class="justify-center flex">在打架的熊猫</small>
+</figure>
+
+<figure>
+  <img src="https://pic.imgdb.cn/item/63d9b014e90d1c0098a30204.jpg"  loading="eager">
+  <small class="justify-center flex">打架的熊猫的`熊猫档案`(ps:还有一只在自己玩)</small>
+</figure>
+
+<figure>
+  <img src="https://pic.imgdb.cn/item/63d9b196e90d1c0098a5567c.jpg"  loading="eager">
+  <small class="justify-center flex">爬树的熊猫(远观)</small>
 </figure>

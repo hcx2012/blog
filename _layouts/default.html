@@ -1,14 +1,19 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}" data-theme="winter">
   <head>
+        <script>
+  if (typeof navigator.serviceWorker !== 'undefined') {
+    navigator.serviceWorker.register('sw.js')
+  }
+</script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" href="/blog/icon.svg">
     <script src="https://cdn.tailwindcss.com"></script>
     <link rel="stylesheet" href="/blog/prose.css">
-    <link href="https://cdn.jsdelivr.net/npm/daisyui@2.49.0/dist/full.css" rel="stylesheet" type="text/css">
-    <link href="https://cdn.jsdelivr.net/npm/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
+    <link href="https://unpkg.com/daisyui@2.49.0/dist/full.css" rel="stylesheet" type="text/css">
+    <link href="https://unpkg.com/remixicon@2.5.0/fonts/remixicon.css" rel="stylesheet">
     <style>
       div.card{
         margin-top:1.25em;

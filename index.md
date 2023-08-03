@@ -28,11 +28,6 @@ permalink: /index.html
     </thead>
     <tbody>
       <tr>
-        <th><i class="ri-upload-line"></i>1</th>
-        <td>重大迁移通知</td>
-        <td><a class="btn btn-primary not-prose" href="http://hcx.unaux.com/blog/2023/05/%e8%bf%81%e7%a7%bb%e9%80%9a%e7%9f%a5/">GO!</a></td>
-      </tr>
-      <tr>
         <th><i class="ri-upload-line"></i>2</th>
         <td>声明</td>
         <td><a class="btn btn-primary not-prose" href="shengming.html">GO!</a></td>

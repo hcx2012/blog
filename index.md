@@ -30,7 +30,7 @@ permalink: /index.html
       <tr>
         <th><i class="ri-upload-line"></i>2</th>
         <td>声明</td>
-        <td><a class="btn btn-primary not-prose" href="shengming.html">GO!</a></td>
+        <td><a class="btn btn-primary not-prose" href="">GO!</a></td>
       </tr>
     </tbody>
   </table>

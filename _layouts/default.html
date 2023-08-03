@@ -29,6 +29,10 @@
         top:0;
         width: 100%;
       }
+      .wrapper {
+          width: 80% !important;
+          margin: 0 auto;
+      }
       </style>
       {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -40,7 +44,7 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
+        
 
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
